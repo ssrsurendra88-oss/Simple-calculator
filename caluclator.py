@@ -1,5 +1,5 @@
 import tkinter as tk
-
+git push --set-upstream origin main
 
 def on_button_click(event):
   text = event.widget["text"]
